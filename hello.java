@@ -3,6 +3,9 @@ public class hello{
         System.out.println("Hello kali Linux");
         System.out.println("New Line");
         System.out.println("SEcond line");
-        System.out.println("alag");
+        System.out.println("third");
+        System.out.println("fourth line");
+        System.out.println("changes");
+
     }
 }
